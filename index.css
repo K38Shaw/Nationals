@@ -1,0 +1,19 @@
+
+
+
+@font-face {
+    font-family: Cinzel ;
+    src: url(./assets/fonts/Cinzel/Cinzel-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Josefin;
+    src: url(./assets/fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: JosefinItalic;
+    src: url(./assets/fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Lexend;
+    src: url(./assets/fonts/Lexend_Tera/LexendTera-VariableFont_wght.ttf);
+}
